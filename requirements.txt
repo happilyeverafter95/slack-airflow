@@ -1,0 +1,1 @@
+apache-airflow[crypto,celery,postgres,jdbc,ssh,statsd,slack]==1.10.7
