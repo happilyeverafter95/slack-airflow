@@ -1,6 +1,6 @@
 # slack-airflow
 
-**Accompanying Medium Article:** [Integrating Docker Airflow with Slack for Daily Reporting](https://medium.com/@mandygu/integrating-docker-airflow-with-slack-to-get-daily-reporting-c462e7c8828a)
+**Accompanying Medium Article:** [Integrating Airflow with Slack for Daily Reporting](https://medium.com/@mandygu/integrating-docker-airflow-with-slack-to-get-daily-reporting-c462e7c8828a)
 
 Simple Airflow + Slack integration for sending daily weather forecasts to my Slack workspace.
 
