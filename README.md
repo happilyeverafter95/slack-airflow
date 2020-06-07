@@ -7,6 +7,16 @@ Simple Airflow + Slack integration for sending daily weather forecasts to my Sla
 
 ## Set up instructions
 
+TODO: start up script to echo these secrets into an env file and run the docker commands with the env file
+
+Specify these secrets in the `Dockerfile`:
+
+```
+# Secrets
+ENV weather_api_key=
+ENV slack_webhook_url=
+```
+
 Run these commands in:
 
 ```
