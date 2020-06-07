@@ -1,5 +1,9 @@
 FROM python:3.7-slim-stretch
 
+# Secrets
+ENV weather_api_key=
+ENV slack_webhook_url=
+
 # Airflow
 ARG AIRFLOW_VERSION=1.10.10
 ARG AIRFLOW_USER_HOME=/usr/local/airflow
